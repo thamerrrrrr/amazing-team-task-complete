@@ -1,0 +1,13 @@
+.team {
+  
+    text-align: center;
+    background-color: aqua;
+}
+.member{
+    float:left;
+    width:30%;
+   
+}
+.clearfix{
+    clear:both;
+}
